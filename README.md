@@ -1,4 +1,4 @@
-# Nom du Jeu
+# EcoRunner
 
 Dans ce jeu, le joueur contrôle un personnage qui court et saute à travers différents niveaux tout en collectant des déchets et en évitant les obstacles tels que les déchets toxiques. Plus le joueur collecte de déchets, plus le score augmente.
 
